@@ -2,6 +2,10 @@
 
 This is a mini project using a free open weather map api endpoint.
 
+You can access the deployed project at https://open-weather-map-api.vercel.app/
+
+Reminder: In order for the app to work, you need to allow the browser to access to your current location.
+
  <img width="1502" alt="Screen Shot 2022-07-23 at 13 06 34" src="https://user-images.githubusercontent.com/86314106/180613191-9d7c142c-2c39-4ce0-af2b-4ab4056ed4e6.png">
 
 ### To run the project:
